@@ -1,0 +1,12 @@
+trisum( 1 , 2 , 3 ).
+trisum( 1 , 3 , 4 ).
+trisum( 2 , 3 , 5 ).
+trisum( 1 , 4 , 5 ).
+trisum( 2 , 4 , 6 ).
+trisum( 3 , 4 , 7 ).
+trisum( 1 , 5 , 6 ).
+trisum( 2 , 5 , 7 ).
+trisum( 3 , 5 , 8 ).
+trisum( 1 , 6 , 7 ).
+trisum( 2 , 6 , 8 ).
+trisum( 1 , 7 , 8 ).
